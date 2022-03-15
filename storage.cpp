@@ -1,4 +1,4 @@
-#include "pilot.h"
+#include "storage.h"
 
 #define DO_INITIALISATION       1
 #define LOGIN_DATA_MAGIC_NUMBER 0
